@@ -1,0 +1,15 @@
+[submodule "research/scrcpy"]
+	path = research/scrcpy
+	url = https://github.com/Genymobile/scrcpy.git
+[submodule "research/jadx"]
+	path = research/jadx
+	url = https://github.com/skylot/jadx.git
+[submodule "research/Apktool"]
+	path = research/Apktool
+	url = https://github.com/iBotPeaches/Apktool.git
+[submodule "research/libimobiledevice"]
+	path = research/libimobiledevice
+	url = https://github.com/libimobiledevice/libimobiledevice.git
+[submodule "research/usbmuxd"]
+	path = research/usbmuxd
+	url = https://github.com/libimobiledevice/usbmuxd.git
